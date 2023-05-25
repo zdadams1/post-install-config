@@ -47,8 +47,5 @@ This part outlines the post-install configuration of osTicket.<br />
       Personal Computer Issues
       Equipment Request
       Password Reset
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<a href="https://github.com/zdadams1/ticket-lifecycle">osTicket Lifecycle</a>
 <br />
