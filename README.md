@@ -47,5 +47,6 @@ This part outlines the post-install configuration of osTicket.<br />
       Personal Computer Issues
       Equipment Request
       Password Reset
+<br />
 <a href="https://github.com/zdadams1/ticket-lifecycle">osTicket Lifecycle</a>
 <br />
